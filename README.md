@@ -1,6 +1,7 @@
 # PRIMER APP DE PRACTICA DEL CURSO DE NODE 
 
-*Comandos por consola de la APP
+**Comandos por consola de la App**
+
 ```
     Opciones:
         --help     Muestra ayuda                                        [booleano]
