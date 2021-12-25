@@ -7,3 +7,5 @@ salida/*.txt
 node_modules/
 
 helpers/notas
+
+config/gitComandos
