@@ -9,4 +9,4 @@
                                                             [número] [defecto: 10]
     -l, --listar   Muestra la tabla de multiplicar     [booleano] [defecto: false] 
 
-![Ejemplo de Uso por consola](TablaDeMultiplicar.jpg)
+![Ejemplo de Uso por consola](TablaDeMultiplicar.png)
