@@ -6,6 +6,5 @@ salida/*.txt
 #No le damos seguimiento a los Paquetes de Node, estos pueden cambiar
 node_modules/
 
-helpers/notas
+notas
 
-config/gitComandos
