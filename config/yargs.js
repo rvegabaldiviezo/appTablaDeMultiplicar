@@ -20,9 +20,11 @@ const argv = require('yargs')
                     describe:  'Muestra la tabla de multiplicar'
                 })
                 .check((argv,options)=>{
-                    if(isNaN(argv.number || argv.b)){
-                        throw 'La  base no es un numero y tiene que serlo'
-                    }else return true 
+                    const condParamNum = isNaN(argv.b)||isNaN(argv.h)
+                   
+                    if(condParamNum) throw `EL PARAMETRO/S DEBE/EN SER UN NUMERO, MIRAR LAS OPCIONES!`;   
+
+                    return true 
                 })
                 .argv;
 
