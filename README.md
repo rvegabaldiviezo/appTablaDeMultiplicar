@@ -8,3 +8,5 @@
     -h, --hasta    Es el limite de la cantidad de multiplicaciones a realizar
                                                             [número] [defecto: 10]
     -l, --listar   Muestra la tabla de multiplicar     [booleano] [defecto: false] 
+
+![Ejemplo de Uso por consola](TablaDeMultiplicar.jpg)
